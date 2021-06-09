@@ -1,5 +1,5 @@
 # svr
-support vector regression, with exp kernel function, and u can set three params, simga, epision and regular params.
+support vector regression(SVR), with exp kernel function, and u can set three params, simga, epision and regular params.
 
 i make use of matlab and its library functino quadprog. 
 
